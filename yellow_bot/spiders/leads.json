@@ -1,0 +1,103 @@
+{
+  "list": [
+    {
+      "title": "California Wings Cafe",
+      "address": "1649 N Cahuenga Blvd, Los Angeles, CA 90028",
+      "phone": "(323) 465-2000",
+      "time": "Today: 11:00 am - 10:00 pm",
+      "website": "http://www.californiawingscafe.com",
+      "email": "info@beyondmenu.com",
+      "portfolio_item": ""
+    },
+    {
+      "title": "Rotisserie Chicken Cafe",
+      "address": "5925 Franklin Ave, Los Angeles, CA 90028",
+      "phone": "(323) 465-0175",
+      "time": "Today: 11:00 am - 1:00 am",
+      "website": "http://birdshollywood.com",
+      "email": "Birds.Hollywood.Ca@gmail.com",
+      "portfolio_item": ""
+    },
+    {
+      "title": "RoRo's Chicken",
+      "address": "6660 W Sunset Blvd Ste C, Los Angeles, CA 90028",
+      "phone": "(323) 461-9999",
+      "time": "Today: 11:00 am - 11:00 pm",
+      "website": "http://www.roroschicken.com",
+      "email": "roroschicken@aol.com",
+      "portfolio_item": ""
+    },
+    {
+      "title": "Benny's Tacos & Chicken Rotisserie",
+      "address": "7101 W Manchester Ave, Los Angeles, CA 90045",
+      "phone": "(310) 670-8226",
+      "time": "Today: 8:30 am - 10:00 pm",
+      "website": "http://www.bennystacos.com",
+      "email": "bennystacos@aol.com",
+      "portfolio_item": ""
+    },
+    {
+      "title": "El Pollo Loco",
+      "address": "5001 Wilshire Blvd, Los Angeles, CA 90036",
+      "phone": "(323) 937-7171",
+      "time": "Today: 9:00 am - 11:00 pm",
+      "website": "http://www.elpolloloco.com",
+      "email": "website@elpolloloco.com",
+      "portfolio_item": ""
+    },
+    {
+      "title": "Chicken Delight",
+      "address": "6327 Hollywood Blvd, Los Angeles, CA 90028",
+      "phone": "(213) 465-7166",
+      "time": "Today: 11:00 am - 9:30 pm",
+      "website": "http://www.chickennriceco.com",
+      "email": "info@chickenriceco.com",
+      "portfolio_item": ""
+    },
+    {
+      "title": "Rogers Poultry Company",
+      "address": "2020 E 67th St, Los Angeles, CA 90001",
+      "phone": "(323) 585-0802",
+      "time": "Today: 4:00 am - 4:30 pm",
+      "website": "http://www.rogerspoultry.com",
+      "email": "info@rogerspoultry.com",
+      "portfolio_item": ""
+    },
+    {
+      "title": "California Chicken Cafe",
+      "address": "6805 Melrose Ave, Los Angeles, CA 90038",
+      "phone": "(323) 935-5877",
+      "time": "Today: 11:00 am - 10:00 pm",
+      "website": "http://www.californiachickencafe.com",
+      "email": "careers@californiachickencafe.com",
+      "portfolio_item": ""
+    },
+    {
+      "title": "Howlin' Ray's",
+      "address": "727 N Broadway Ste 128, Los Angeles, CA 90012",
+      "phone": "(213) 935-8399",
+      "time": "Today: Closed",
+      "website": "http://www.howlinrays.com",
+      "email": "hotchicken@howlinrays.com",
+      "portfolio_item": ""
+    },
+    {
+      "title": "Zankou Chicken",
+      "address": "1716 S Sepulveda Blvd, Los Angeles, CA 90025",
+      "phone": "(310) 444-0550",
+      "time": "Today: 10:00 am - 11:00 pm",
+      "website": "http://www.zankouchicken.com",
+      "email": "carlos@zankouchicken.com",
+      "portfolio_item": ""
+    },
+    {
+      "title": "California Chicken Cafe",
+      "address": "6805 Melrose Ave, Los Angeles, CA 90038",
+      "phone": "(323) 935-5877",
+      "time": "Today: 11:00 am - 10:00 pm",
+      "website": "http://www.californiachickencafe.com",
+      "email": "careers@californiachickencafe.com",
+      "portfolio_item": ""
+    }
+  ]
+}
