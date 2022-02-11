@@ -22,7 +22,7 @@ scrapy-rotating-proxies==0.6.2
 Scrapy-UserAgents==0.0.1
 service-identity==18.1.0
 six==1.14.0
-Twisted==20.3.0
+Twisted==22.1.0
 typing==3.7.4.1
 w3lib==1.21.0
 zope.interface==5.1.0
