@@ -17,7 +17,7 @@ PyDispatcher==2.0.5
 PyHamcrest==2.0.2
 pyOpenSSL==19.1.0
 queuelib==1.5.0
-Scrapy==2.1.0
+Scrapy==2.6.2
 scrapy-rotating-proxies==0.6.2
 Scrapy-UserAgents==0.0.1
 service-identity==18.1.0
